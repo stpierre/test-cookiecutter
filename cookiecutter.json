@@ -1,4 +1,5 @@
 {
   "slug": "test",
-  "contents": "Lorem ipsum"
+  "contents": "Lorem ipsum",
+  "version": "0.0.1"
 }
